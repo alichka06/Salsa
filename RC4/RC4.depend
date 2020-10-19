@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1602959880 source:f:\mega\master-1\crypto\rc4\main.cpp
+	<iostream>
+	<vector>
+	<fstream>
+	"rc4.h"
+
+1602960703 f:\mega\master-1\crypto\rc4\rc4.h
+	<vector>
+
